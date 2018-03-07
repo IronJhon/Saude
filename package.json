@@ -1,8 +1,8 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Saude",
+    "name": "App Saude",
     "version": "4.0.0",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Aplicativo dedicado para incentivar a pratica de atividade fisica",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
+    "homepage": "http://appsaude-appsaude.193b.starter-ca-central-1.openshiftapps.com/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/IronJhon/Saude",
+        "email": "joaopedroleite.s.lisboa.info@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Joao Pedro, Wiliam, Higor Marques",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Joao Pedro (https://www.facebook.com/JoaoPedroLeiteSLisboa)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/IronJhon/Saude"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
